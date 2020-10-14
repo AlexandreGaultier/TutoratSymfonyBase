@@ -18,6 +18,9 @@ php .\bin\console doctrine:migrations:migrate
 Pour continuer : 
 
 https://youtu.be/UTusmVpwJXo Les bases
+
 https://youtu.be/_cgZheTv-FQ Les formulaires
+
 https://youtu.be/e5udJTjbYzw Les relations entre entity
+
 https://www.youtube.com/watch?v=_GjHWa9hQic Espace membre
