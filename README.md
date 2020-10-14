@@ -8,11 +8,15 @@ composer create-project symfony/website-skeleton nomDuProjet
 symfony server:start
 
 php .\bin\console make:controller
+
 php .\bin\console make:entity
 
 modifier infos du .env
+
 php .\bin\console doctrine:database:create
+
 php .\bin\console make:migration
+
 php .\bin\console doctrine:migrations:migrate
 
 Pour continuer : 
